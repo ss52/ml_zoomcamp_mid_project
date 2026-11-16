@@ -1,0 +1,7 @@
+*
+!requirements-serving.txt
+!predict.py
+!artifacts/
+artifacts/*
+!artifacts/lightgbm_model.txt
+!artifacts/model_metadata.json
